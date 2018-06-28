@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Per2_Listen</string>
+    <string name="dialog_thongbao">Thông báo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_permissions">Please enable Microphone and Storage permissions.</string>
+</resources>
